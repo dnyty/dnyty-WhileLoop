@@ -38,6 +38,7 @@ public class Lab {
 
         while(i<end){
             sum+=i;
+            i++;
         }
 
         System.out.println("sum is" + sum);
